@@ -1,9 +1,7 @@
 <div align="center">
 
   ### 🚀 Full Stack Engineer | AI Enthusiast | Problem Solver
-  
-  [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL_HERE)
-  [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL_HERE)
+
 
 </div>
 
