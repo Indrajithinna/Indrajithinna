@@ -1,6 +1,4 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Indrajith&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20Systems%20%26%20AI%20Solutions&descAlignY=55&descAlign=50"/>
 
   ### 🚀 Full Stack Engineer | AI Enthusiast | Problem Solver
   
@@ -13,11 +11,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science Engineer (Pre-final Year)** passionate about building production-grade applications. I move beyond "tutorials" to build systems that handle real-world complexity. My focus is on **Scalability**, **Clean Architecture**, and **AI Integration**.
+I am an **Information Science Engineer** passionate about bridging the gap between complex data and user-friendly interfaces. Currently, I am focused on **Full Stack Development** and **Artificial Intelligence**, building tools that solve real-world problems and automation.
 
-* 🔭 I’m currently building **MindfulAI** (An emotionally intelligent voice-assistant platform).
-* 🌱 I’m currently learning **Advanced System Design** and **Cloud Native Patterns**.
-* ⚡ **Core Philosophy:** "Make it work, make it right, make it fast."
+- 🔭 I’m currently building **MindfulAI** (An emotionally intelligent voice-assistant platform).
+- 🌱 I’m currently learning **.NET Core** and **Advanced MERN Patterns**.
+- 💡 I love combining **Quantitative Finance** with **Python** to automate data analysis.
+- 🎓 **Education:** B.E. in Information Science (VTU), Pre-final Year.
 
 ---
 
