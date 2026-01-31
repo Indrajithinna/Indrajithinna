@@ -33,10 +33,4 @@ I am an **Information Science Engineer** passionate about bridging the gap betwe
 
 ---
 
-### 🏆 Featured Projects
-
-#### 1. [EchoWell - Emotional Wellness Companion]([LINK_TO_REPO](https://github.com/Indrajithinna/EchoWell))
-> *Next.js 14, TypeScript, Supabase, Google Gemini Pro, OpenAI Whisper*
-A real-time AI companion that detects user emotions via voice tonality and responds with empathetic, adaptive dialogue.
-* **Key Tech:** Implemented WebSocket for real-time audio streaming and vector embeddings for context retention.
 
