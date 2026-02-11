@@ -11,7 +11,6 @@
 
 I am an **Information Science Engineer** passionate about bridging the gap between complex data and user-friendly interfaces. Currently, I am focused on **Full Stack Development** and **Artificial Intelligence**, building tools that solve real-world problems and automation.
 
-- 🔭 I’m currently building **EchoWell** (An emotionally intelligent voice-assistant platform).
 - 🌱 I’m currently learning **.NET Core** and **Advanced MERN Patterns**.
 - 💡 I love combining **Quantitative Finance** with **Python** to automate data analysis.
 - 🎓 **Education:** B.E. in Information Science (VTU), Pre-final Year.
